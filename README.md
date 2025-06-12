@@ -1,1 +1,1 @@
-# SCE
+# Servicio Compra Empanadas (SCE).
