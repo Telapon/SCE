@@ -1,0 +1,6 @@
+@SCE.WebApp_HostAddress = http://localhost:5062
+
+GET {{SCE.WebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
